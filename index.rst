@@ -8,3 +8,4 @@ Contents:
 
    goals
    visualization-design
+   future-notes
